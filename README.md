@@ -1,1 +1,2 @@
 # Python-Asoslari
+salom hammaga
